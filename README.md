@@ -1,2 +1,1 @@
-![SmellyN3rd's github stats](https://github-readme-stats.vercel.app/api?username=SmellyN3rd)
-
+![SmellyN3rd's github stats](https://github-readme-stats.vercel.app/api?username=SmellyN3rd)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
