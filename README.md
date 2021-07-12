@@ -4,7 +4,7 @@
 
 ## Tools and Technologies
 
-![](https://img.shields.io/badge/OS-Manjaro-informational?style=flat&logo=linux&logoColor=white&color=lightgrey)
+![](https://img.shields.io/badge/OS-Arch_linux-informational?style=flat&logo=linux&logoColor=white&color=lightgrey)
 ![](https://img.shields.io/badge/IDE-Pycharm-informational?style=flat&logo=pycharm&logoColor=white&color=lightgrey)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=lightgrey)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=lightgrey)
